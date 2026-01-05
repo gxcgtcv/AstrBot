@@ -53,4 +53,5 @@ jieba>=0.42.1
 markitdown-no-magika[docx,xls,xlsx]>=0.1.2
 xinference-client
 tenacity>=9.1.2
+gradio_client
 huggingface_hub
